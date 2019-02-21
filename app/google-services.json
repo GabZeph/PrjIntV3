@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "624313515120",
+    "firebase_url": "https://prjintv3.firebaseio.com",
+    "project_id": "prjintv3",
+    "storage_bucket": "prjintv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624313515120:android:ea3ae5aca6c65925",
+        "android_client_info": {
+          "package_name": "com.example.a1738217.prjintv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624313515120-ksu79um9vrolkav5tq5ve1gtv8qdig7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1738217.prjintv3",
+            "certificate_hash": "f62dad6609843d9e1afa5fc2deb63e243e9c9d2a"
+          }
+        },
+        {
+          "client_id": "624313515120-rjngf3vi62qvmnlk8s74lc321hhi4tr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbl_LB3D2c7IEUFTyEvfHLwvmIVO77oDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624313515120-rjngf3vi62qvmnlk8s74lc321hhi4tr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
